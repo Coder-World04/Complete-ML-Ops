@@ -1,6 +1,7 @@
 # Complete-ML-Ops
 
 ![0_YOi51tAtCXI6ZPqy](https://user-images.githubusercontent.com/104568275/186137596-0f353598-4a90-4ea5-b683-5b6537a5abf2.png)
+Pic credits : gridai
 
 
 Pre-requisite : [Day 1 — Day 60 : Quick Recap of 60 days of Data Science and ML](https://medium.com/coders-mojo/day-1-day-60-quick-recap-of-60-days-of-data-science-and-ml-6fc021643d1?sk=4e75e043b7630a9f963562ebac94e129)
