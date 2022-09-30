@@ -59,7 +59,7 @@ Automated Model retraining
 
 Model Deployment and monitoring
 
-Model Inference and Serving
+Model Inference & Serving
 
 Model Resource Management Techniques
 
