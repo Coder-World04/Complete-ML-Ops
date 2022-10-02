@@ -32,7 +32,7 @@ Numpy
 
 Exploratory Data Analysis
 
-Data preprocessing ( Collecting, Labeling and Validating data)
+Data preprocessing ( Collecting, Labeling and Validating data )
 
 Data Labelling and Advanced Data Labeling Methods
 
