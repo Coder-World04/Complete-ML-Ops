@@ -191,7 +191,7 @@ Learn advanced machine learning techniques and algorithms - including how to
 
 4. Complete Data Product Manager : https://bit.ly/3QGUtwi
 
-Leverage data to build products that deliver the right experiences, to the right users, at the right time. Lead the development of data-driven products that position businesses to win in their market.
+Leverage data to build products that deliver the right experiences, to the right users, at the right time. Lead the development of data-driven products that position businesses to win in their market .
 
 ------
 
