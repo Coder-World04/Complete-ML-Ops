@@ -21,105 +21,168 @@ This repository contains everything you need to become proficient in MLOps
 
 --------
 
-
 2. Data
 
-[Complete Python with projects](https://medium.com/coders-mojo/day-2-of-30-days-of-data-engineering-7237dbb8c993?sk=69a04e5b1c00298cd908d9e6fc58bc86)
+--------------
 
-[Pandas](https://medium.com/coders-mojo/day-2-of-30-days-of-machine-learning-ops-46c9e033a6d6?sk=d2855313cc2d0f411a84ea32e6282939)
+[Complete Python with projects](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-Numpy
+[Pandas and Numpy](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-Exploratory Data Analysis
+[Exploratory Data Analysis](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-Data preprocessing ( Collecting, Labeling and Validating data )
+[Data preprocessing ( Collecting, Labeling and Validating data)](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-Data Labelling and Advanced Data Labeling Methods
+[Data Labelling and Advanced Data Labeling Methods](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-Data Splitting
+[Data Splitting](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-Feature Engineering
+[Feature Engineering](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-Data Augmentation
+[Data Augmentation](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
----------
+3. Aggregations
 
+--------------------
 
-3.Modeling
+[Aggregation Functions](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-Model Training and Evaluation
+[Analytical Functions](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-Model Baselines
+4. Window Functions
 
-Model Tuning and Optimization
+-----------------------
 
-Model Review and governance
+[Advanced windowing techniques](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-Automated Model retraining
+5. BigQuery
 
-Model Deployment and monitoring
+----------------------
 
-Model Inference & Serving
+[BigQuery Basics](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-Model Resource Management Techniques
+[SELECT, FROM, WHERE and Date and Extract in BigQuery](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-Model Analysis
+[Common Expression Table](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-High-Performance Modeling
+[UNNEST Clause](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[SQL vs NoSQL Database](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+6. Advanced Functions
+
+--------------------------
+
+[Triggers](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Pivot](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Cursors](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Views](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Indexes](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Auto Increment](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+7. Performance Tuning SQL Queries
+
+-----------------------------------------
+
+[Query Optimizations in. SQL](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Performance Tuning in SQL](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+8. MySQL, PostgreSQL and MongoDB
+
+-----------------------------------------
+
+[Introduction to MySQL](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Introduction to PostgreSQL](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Introduction to Mongo DB](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Comparison between MySQL and PostgreSQL and Mongo DB](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Introduction to SQL and NoSQL Databases](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[MySQL in Depth](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[PostgreSQL in Depth](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+9. Modeling
+
+-----------------------
+
+[Model Training and Evaluation](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Model Baselines](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Model Tuning and Optimization](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Model Review and governance](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Automated Model retraining](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Model Deployment and monitoring](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Model Inference and Serving](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Model Resource Management Techniques](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Model Analysis](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[High-Performance Modeling](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+10. Developing
+
+--------------------------
+
+[End — to — End ML Workflow Cycle](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[ML workflows](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[MLOps Logging and Documentation](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[MLOps Makefile](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[ML Lake](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[ML Pipelines and toolkits](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[MLOps tools and Frameworks](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+11. Testing and Reproducibility
+
+-------------------------------------
+
+[Git](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Versioning](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Docker](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+12. Production
+
+-------------------------------------
+
+[Continuous Integration](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Continuous Delivery and Deployment](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Monitoring and Logging](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Feature Stores](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[MLOps architecture and Infrastructure Stack](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
+
+[Model Serving Patterns and Infrastructures](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
 --------
 
 
-4.Developing
-
-End - to - End ML Workflow Cycle
-
-ML workflows
-
-MLOps Logging and Documentation
-
-MLOps Makefile
-
-ML Lake
-
-ML Pipelines and toolkits
-
-MLOps tools and Frameworks
-
---------
-
-
-5. Testing and Reproducibility
-
-Git
-
-Versioning
-
-Docker
-
---------
-
-
-6. Production
-
-Continuous Integration
-
-Continuous Delivery and Deployment
-
-Monitoring and Logging
-
-Feature Stores
-
-MLOps architecture and Infrastructure Stack
-
-Model Serving Patterns and Infrastructures
-
-Model fairness, Explainability issues, and Mitigate bottlenecks
-
---------
-
-
-7. MLOps (Amazing) Papers
+MLOps (Amazing) Papers
 
 Some amazing MLOps research papers that I have read over the years to help you boot up to the industry standards and what's next in this field.
 
