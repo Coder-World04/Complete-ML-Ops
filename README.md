@@ -11,7 +11,9 @@ Pre-requisite : [Day 1 — Day 60 : Quick Recap of 60 days of Data Science and M
 
 This repository contains everything you need to become proficient in MLOps
 
-1. [MLOps Basics and Principles](https://medium.com/coders-mojo/day-1-of-30-days-of-machine-learning-ops-7c299e4b09be?sk=4ab48350a5c359fc157109e48b1d738f)
+# 1. MLOps Basics and Principles
+
+----------------------------------------
 
 [What is MLOps?](https://medium.com/coders-mojo/day-1-of-30-days-of-machine-learning-ops-7c299e4b09be?sk=4ab48350a5c359fc157109e48b1d738f)
 
@@ -21,7 +23,7 @@ This repository contains everything you need to become proficient in MLOps
 
 --------
 
-2. Data
+# 2. Data
 
 --------------
 
@@ -41,7 +43,7 @@ This repository contains everything you need to become proficient in MLOps
 
 [Data Augmentation](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-3. Aggregations
+# 3. Aggregations
 
 --------------------
 
@@ -49,13 +51,13 @@ This repository contains everything you need to become proficient in MLOps
 
 [Analytical Functions](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-4. Window Functions
+# 4. Window Functions
 
 -----------------------
 
 [Advanced windowing techniques](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-5. BigQuery
+# 5. BigQuery
 
 ----------------------
 
@@ -69,7 +71,7 @@ This repository contains everything you need to become proficient in MLOps
 
 [SQL vs NoSQL Database](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-6. Advanced Functions
+# 6. Advanced Functions
 
 --------------------------
 
@@ -85,7 +87,7 @@ This repository contains everything you need to become proficient in MLOps
 
 [Auto Increment](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-7. Performance Tuning SQL Queries
+# 7. Performance Tuning SQL Queries
 
 -----------------------------------------
 
@@ -93,7 +95,7 @@ This repository contains everything you need to become proficient in MLOps
 
 [Performance Tuning in SQL](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-8. MySQL, PostgreSQL and MongoDB
+# 8. MySQL, PostgreSQL and MongoDB
 
 -----------------------------------------
 
@@ -111,7 +113,7 @@ This repository contains everything you need to become proficient in MLOps
 
 [PostgreSQL in Depth](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-9. Modeling
+# 9. Modeling
 
 -----------------------
 
@@ -135,7 +137,7 @@ This repository contains everything you need to become proficient in MLOps
 
 [High-Performance Modeling](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-10. Developing
+# 10. Developing
 
 --------------------------
 
@@ -153,7 +155,7 @@ This repository contains everything you need to become proficient in MLOps
 
 [MLOps tools and Frameworks](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-11. Testing and Reproducibility
+# 11. Testing and Reproducibility
 
 -------------------------------------
 
@@ -163,7 +165,7 @@ This repository contains everything you need to become proficient in MLOps
 
 [Docker](https://medium.com/coders-mojo/implemented-machine-learning-ops-projects-60b9414cd8c3?sk=6e1a5000842aafe7d39f5f5bb0df1544)
 
-12. Production
+# 12. Production
 
 -------------------------------------
 
@@ -182,7 +184,7 @@ This repository contains everything you need to become proficient in MLOps
 --------
 
 
-MLOps (Amazing) Papers
+# MLOps (Amazing) Papers
 
 Some amazing MLOps research papers that I have read over the years to help you boot up to the industry standards and what's next in this field.
 
